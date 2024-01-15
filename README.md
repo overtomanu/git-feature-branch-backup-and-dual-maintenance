@@ -1,4 +1,4 @@
-# simple-git-repo-with-feature-branches
+#  git-feature-branch-backup-and-dual-maintenance
 
 Test repo for testing shell script : [git-sync-detail-and-backup-branch.sh](./git-sync-detail-and-backup-branch.sh)
 
