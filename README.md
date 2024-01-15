@@ -12,4 +12,4 @@ After this script is run,
 Uses:
 
 - Doing quick backup of a feature branch.
-- You need to have single commit per feature in main branch, but you need to maintain detailed commits for reference
+- You need to have single commit per feature in main branch, but you need to maintain detailed commits for reference in another branch
