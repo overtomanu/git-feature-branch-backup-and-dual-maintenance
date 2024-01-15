@@ -1,12 +1,13 @@
 A
 feature 1 commit 1 change 1
-C
+feature 1 commit 2 change 3
 D
 
 W
 X
+feature 1 commit 2 change 2
 Y
 feature 1 commit 1 change 2
 Z
 
-feature 1 commit 1 change 3
+feature 1 commit 1 change 3, feature 1 commit 2 change 5
