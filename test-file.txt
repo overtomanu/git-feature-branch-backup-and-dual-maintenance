@@ -1,10 +1,18 @@
 A
-B
-C
+feature 1 commit 1 change 1
+feature 1 commit 2 change 3
 D
 
 W
 X
+feature 1 commit 2 change 2
 Y
+feature 1 commit 1 change 2
 Z
 
+feature 1 commit 1 change 3, feature 1 commit 2 change 5
+
+
+stash1 change1
+committing stash in detail branch, earlier line => uncommitted changes done on detail branch after running script. 
+=> after above change will immediately run script again with changes in working tree
