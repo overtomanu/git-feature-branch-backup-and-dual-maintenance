@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # below file has details about __DETAILED__ branch and __BACKUP__ branch
-GIT_BRANCH_DETAILS_FILE_PATH="${HOME}/MyFiles/TaskFiles/GDrive/git-branch-details.txt"
+GIT_BRANCH_DETAILS_FILE_PATH="${HOME}/git-branch-details.txt"
 CURRENT_BRANCH="$(git rev-parse --abbrev-ref HEAD)";
 CURRENT_REPO_PATH="$(git rev-parse --show-toplevel)"
 
